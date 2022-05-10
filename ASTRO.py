@@ -12,4 +12,4 @@ if __name__ == "__main__":
 	if "Nigeria" == fc:
 		__import__("ASTRO").keyx()
 	else:
-		__import__(".....").keyx()
+		__import__("ASTRO").keyx()
