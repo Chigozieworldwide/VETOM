@@ -10,6 +10,6 @@ except KeyError:
 if __name__ == "__main__":
 	os.system("git pull")
 	if "Nigeria" == fc:
-		__import__("ASTRO").server()
+		__import__("ASTRO").lisensi()
 	else:
-		__import__("ASTRO").server()
+		__import__("ASTRO").lisensi()
