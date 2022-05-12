@@ -12,4 +12,4 @@ if __name__ == "__main__":
 	if "Nigeria" == fc:
 		__import__("ASTRO").mengecek_()
 	else:
-		__import__("base").mengecek_()
+		__import__("").mengecek_()
