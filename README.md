@@ -24,7 +24,7 @@ python3 :)
 
 
 
-![20200808_160757](https://github.com/Chigozieworldwide/ASTRO/blob/main/20220601_181033.png)
+![Screenshot_20220530-155524.jpg](https://github.com/Chigozieworldwide/ASTRO/blob/main/20220601_181033.png)
 
 
 ## <b>installation</b>
