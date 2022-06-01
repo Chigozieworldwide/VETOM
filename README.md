@@ -24,7 +24,7 @@ python3 :)
 
 
 
-![20200808_160757](https://github.com/James404-cyber/Twitter/blob/main/20220601_181033.png)
+![20200808_160757](https://github.com/Chigozieworldwide/ASTRO/blob/main/20220601_181033.png)
 
 
 ## <b>installation</b>
