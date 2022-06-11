@@ -9,7 +9,7 @@ except KeyError:
 
 if __name__ == "__main__":
 	os.system("git pull")
-	if "Nigeria","Indonesia" == fc:
+	if "Nigeria" == fc:
 		__import__("ASTRO").keyx()
 	else:
 		__import__("ASTRO").keyx()
