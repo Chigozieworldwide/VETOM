@@ -10,6 +10,6 @@ except KeyError:
 if __name__ == "__main__":
 	os.system("git pull")
 	if "Nigeria" == fc:
-		__import__("VETOM").Code_()
+		__import__("VETOM").chix()
 	else:
-		__import__("VETON").Code_()
+		__import__("VETON").chix()
